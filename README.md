@@ -5,19 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-damiano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damiano-gubiani-536459212/)](www.linkedin.com/in/damiano-gubiani-536459212)
 [![Gmail Badge](https://img.shields.io/badge/-damiano.gubiani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damiano.gubianik@gmail.com)](mailto:rajaprerak@gmail.com) 
 
+💻 **Things I love**
+- Penetretion Testing 
+- Cyber Security
+- Machine Learning 
+- Data Science 
 
-
-<!--
-**DamianoGubiani/DamianoGubiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
