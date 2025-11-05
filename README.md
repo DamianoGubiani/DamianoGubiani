@@ -1,3 +1,5 @@
+<img align="right" src="[https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QybHNkd2U3YWpidDg5dDAzM2hhYjFyMGdxbTJwbzg1cnJnMTIwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)" alt="Cyber Security" width="420" height="330">
+
 ### Hi there i'm Damiano Gubiani 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-damiano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damiano-gubiani-536459212/)](www.linkedin.com/in/damiano-gubiani-536459212)
