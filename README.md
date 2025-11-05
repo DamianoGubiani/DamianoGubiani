@@ -1,4 +1,6 @@
-## Hi there 👋
+<img align="right" src="https://github.com/DamianoGubiani/DamianoGubiani/blob/master/Hacker-Chibi-Cute-Cat-Graphics-54684349-1-1-580x387-3062745352.jpg" alt="Hacking kitty" width="420" height="330">
+
+### Hi there i'm Damiano Gubiani 👋
 
 <!--
 **DamianoGubiani/DamianoGubiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
