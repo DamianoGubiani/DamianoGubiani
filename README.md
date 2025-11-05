@@ -1,6 +1,9 @@
-<img align="right" src="https://github.com/DamianoGubiani/DamianoGubiani/Hacker-Chibi-Cute-Cat-Graphics-54684349-1-1-580x387-3062745352.jpg" alt="Hacking kitty" width="420" height="330">
-
 ### Hi there i'm Damiano Gubiani 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-damiano-gubiani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damiano-gubiani-536459212/)](www.linkedin.com/in/damiano-gubiani-536459212)
+[![Gmail Badge](https://img.shields.io/badge/-damiano.gubiani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damiano.gubianik@gmail.com)](mailto:rajaprerak@gmail.com) 
+
+
 
 <!--
 **DamianoGubiani/DamianoGubiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
