@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/DamianoGubiani/DamianoGubiani/blob/main/Hacker-Chibi-Cute-Cat-Graphics-54684349-1-1-580x387-3062745352.jpg" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/DamianoGubiani/DamianoGubiani/blob/main/3a93230f9140c43031ea0bdd0f23c37e.jpg?raw=true" alt="Coder GIF" width="420" height="330">
 
 ### Hi there i'm Damiano Gubiani 👋
 
