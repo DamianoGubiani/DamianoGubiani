@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-damiano.gubiani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damiano.gubianik@gmail.com)](mailto:rajaprerak@gmail.com) 
 
 💻 **Things I love**
+- Red team operation
 - Penetretion Testing 🖳
 - Cyber Security 🛡️
 - Python Scripting <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
